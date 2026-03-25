@@ -26,6 +26,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/delacruzimpostor-cmd/xhttp-xray:latest
+          tags: ghcr.io/delacruzimpostor12/xhttp-xray:latest
 
           
