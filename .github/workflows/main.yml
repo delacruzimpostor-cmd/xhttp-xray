@@ -26,5 +26,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository }}:latest
+          tags: tags: ghcr.io/delacruzimpostor-cmd/xhttp-xray:latest
+
           
