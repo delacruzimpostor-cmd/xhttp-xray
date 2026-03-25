@@ -12,3 +12,4 @@ COPY config.json /etc/xray/config.json
 EXPOSE 80
 
 CMD ["/usr/local/bin/xray", "-config", "/etc/xray/config.json"]
+
